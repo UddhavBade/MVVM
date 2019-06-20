@@ -2,8 +2,8 @@
 //  WebService.swift
 //  WebServiceCommonClass
 //
-//  Created by Amit Bachhawat on 10/12/18.
-//  Copyright © 2018 Amit Bachhawat. All rights reserved.
+//  Created by Uddhav on 10/12/18.
+//  Copyright © 2018 Uddhav. All rights reserved.
 //
 
 import UIKit
